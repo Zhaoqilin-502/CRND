@@ -1,9 +1,9 @@
 # CRND（Chinese Railway Number Dataset）
 ## Dataset Descriptions
-- **1** CRND comprises over 12,000 unique railway train number images with comprehensive annotations.
-- **2** Images were collected from Chinese railway stations and operational rail lines
-- **3** Position information for all train number characters and corresponding train number data were manually annotated using YOLO format annotation files.
-- **4** Images representing diverse conditions were selected and manually classified into several subdatasets within CRND, including Clear(5200), Normal(3700), Missing(390), Obscured(340), and Blur(2300) subdatasets
+- **1**: CRND comprises over 12,000 unique railway train number images with comprehensive annotations.
+- **2**: Images were collected from Chinese railway stations and operational rail lines
+- **3**: Position information for all train number characters and corresponding train number data were manually annotated using YOLO format annotation files.
+- **4**: Images representing diverse conditions were selected and manually classified into several subdatasets within CRND, including Clear(5200), Normal(3700), Missing(390), Obscured(340), and Blur(2300) subdatasets
 
 ## Dataset Annotations
 All comments are in txt document format 
