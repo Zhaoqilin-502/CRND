@@ -15,4 +15,8 @@ The explanation is as follows:
 The dataset can be downloaded from:
 - **Quark Drive**: https://pan.quark.cn/s/8486735bc5b7
 - **Google Drive**: Coming soon.
-- To obtain the extraction code for the drive, please contact us via email 123123@11 We will provide feedback as soon as possible.
+- To obtain the extraction code for the drive, please contact us via email 18702868351@163.com. We will provide feedback as soon as possible.
+
+
+# MMGA（Attention for Train Number Recognition）
+- The code for MMGA is currently being organized and will be open sourced soon.
