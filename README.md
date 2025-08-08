@@ -11,4 +11,4 @@ The content of the txt document is as follows:(2 0.772577 0.554206 0.0903717 0.2
 - **Character types**: The character type of the train number. There are a total of 23 types： 1 2 3 4 5 6 7 8 9 C E A K H N B T P Q L G Z. Encode sequentially from 0, with the last Z encoded as 22.
 - **Bounding box coordinates**: The (x, y) coordinates of the center point and the height (H) and width (W) dimensions.
 
-The dataset can be downloaded from: 
+The dataset can be downloaded from: https://pan.quark.cn/s/8486735bc5b7
