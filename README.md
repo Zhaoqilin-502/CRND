@@ -13,10 +13,10 @@ The explanation is as follows:
 - **Bounding box coordinates**: The (x, y) coordinates of the center point and the height (H) and width (W) dimensions.
 
 The dataset can be downloaded from:
-- **Quark Drive**: https://pan.quark.cn/s/8486735bc5b7
+- **Quark Drive**: https://pan.quark.cn/s/8486735bc5b7    
 - **Google Drive**: Coming soon.
-- To obtain the extraction code for the drive, please contact us via email 18702868351@163.com. We will provide feedback as soon as possible.
-
-
+- To obtain the extraction code for the USB drive, please fill out a data application registration form. The extraction code will be automatically sent to your email address after completion. Your privacy will be protected. If you encounter any problems, please contact us via email: 18702868351@163.com. We will reply as soon as possible.You can choose Google Forms or Questionnaire Star (a survey software).
+- **Google Forms**: https://docs.google.com/forms/d/e/1FAIpQLSdWIyFADrDkegUp37dIfA6br5JXpuRdp-sEPj9bBPq8nihvCQ/viewform?usp=dialog
+- **Questionnaire**: https://v.wjx.cn/vm/hnAuCjL.aspx#
 # MMGA（Attention for Train Number Recognition）
 - The code for MMGA is currently being organized and will be open sourced soon.
