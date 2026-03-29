@@ -17,7 +17,7 @@ The dataset can be downloaded from:
 - **Google Drive**: Coming soon.
 - To obtain the extraction code for the USB drive, please fill out a data application registration form. The extraction code will be automatically sent to your email address after completion. Your privacy will be protected. If you encounter any problems, please contact us via email: 18702868351@163.com. We will reply as soon as possible. You can choose Google Forms or Questionnaire Star (a survey software).
 - **Google Forms**: https://docs.google.com/forms/d/e/1FAIpQLSdWIyFADrDkegUp37dIfA6br5JXpuRdp-sEPj9bBPq8nihvCQ/viewform?usp=dialog
-- **Questionnaire**: https://v.wjx.cn/vm/hnAuCjL.aspx#
+- **Questionnaire**: 
 # MMGA（Attention for Train Number Recognition）
 - The code for MMGA is currently being organized and will be open-sourced soon.
 
