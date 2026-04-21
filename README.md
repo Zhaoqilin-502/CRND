@@ -19,7 +19,7 @@ The dataset can be downloaded from:
 - **Google Forms**: https://docs.google.com/forms/d/e/1FAIpQLSdWIyFADrDkegUp37dIfA6br5JXpuRdp-sEPj9bBPq8nihvCQ/viewform?usp=dialog
 - **Questionnaire**: 
 # MMGA（Attention for Train Number Recognition）
-- The code for MMGA is currently being organized and will be open-sourced soon.
+- The project's code is currently being organized and released gradually.
 
 
 https://github.com/user-attachments/assets/90e802b3-bac6-47ee-b262-40ecc1a6e76e
