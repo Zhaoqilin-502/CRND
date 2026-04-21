@@ -12,7 +12,7 @@ if __name__ == '__main__':
     # 训练参数 ----------------------------------------------------------------------------------------------
     model.train(
 
-        data=r"F:\OSDar23\reorganized_dataset\data.yaml",
+        data=r"",
         epochs=10,  # (int) 训练的周期数
         patience=200,  # (int) 等待无明显改善以进行早期停止的周tiao期数
         batch=16,  # (int) 每批次的图像数量（-1 为自动批处理）
