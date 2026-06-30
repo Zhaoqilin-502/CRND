@@ -4,7 +4,8 @@
 - **2**: Images were collected from Chinese railway stations and operational rail lines.
 - **3**: Position information for all train number characters and corresponding train number data were manually annotated using YOLO format annotation files.
 - **4**: Images representing diverse conditions were selected and manually classified into several subdatasets within CRND, including Clear(5200), Normal(3700), Missing(390), Obscured(340), and Blur(2300) subdatasets. A new CRND-Complex(259) sub-dataset has been added.
-
+The dataset is roughly illustrated below：
+<img width="1289" height="213" alt="屏幕截图 2026-06-30 163652" src="https://github.com/user-attachments/assets/3442c523-74be-44cb-97a0-ebbb21dfd2fc" />
 ## Dataset Annotations
 All comments are in txt document format.
 The content of the txt document is as follows:   (2 0.772577 0.554206 0.0903717 0.218302). 
