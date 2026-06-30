@@ -6,6 +6,7 @@
 - **4**: Images representing diverse conditions were selected and manually classified into several subdatasets within CRND, including Clear(5200), Normal(3700), Missing(390), Obscured(340), and Blur(2300) subdatasets. A new CRND-Complex(259) sub-dataset has been added.
 The dataset is roughly illustrated below：
 <img width="1289" height="213" alt="屏幕截图 2026-06-30 163652" src="https://github.com/user-attachments/assets/3442c523-74be-44cb-97a0-ebbb21dfd2fc" />
+<img width="1168" height="313" alt="屏幕截图 2026-06-30 164255" src="https://github.com/user-attachments/assets/2854ebc0-6000-4508-b4c6-4eb69a7cf23d" />
 ## Dataset Annotations
 All comments are in txt document format.
 The content of the txt document is as follows:   (2 0.772577 0.554206 0.0903717 0.218302). 
@@ -20,9 +21,10 @@ The dataset can be downloaded from:
 - The download address for the newly added CRND-Complex subset dataset is as follows:https://pan.baidu.com/s/1PC4sffB9XMgJrVPDQmvoZw
 - **Google Forms**: https://docs.google.com/forms/d/e/1FAIpQLSdWIyFADrDkegUp37dIfA6br5JXpuRdp-sEPj9bBPq8nihvCQ/viewform?usp=dialog
 - **Questionnaire**: 
-# MMGA（Attention for Train Number Recognition）
+# MMGA（Our Attention for Train Number Recognition）
 - The project's code is currently being organized and released gradually.
+- MMGA's source code has been open-sourced, and the one-click operation of the entire project is being developed.（20260630）
 
-
+# Model effect display
 https://github.com/user-attachments/assets/90e802b3-bac6-47ee-b262-40ecc1a6e76e
 
