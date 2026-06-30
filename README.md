@@ -18,10 +18,10 @@ The explanation is as follows:
 The dataset can be downloaded from:
 - **Quark Drive**: https://pan.quark.cn/s/8486735bc5b7    
 - **Google Drive**: Coming soon.
-- To obtain the extraction code for the USB drive, please fill out a data application registration form. The extraction code will be automatically sent to your email address after completion. Your privacy will be protected. If you encounter any problems, please contact us via email: 18702868351@163.com. We will reply as soon as possible. You can choose Google Forms or Questionnaire Star (a survey software).
+- To obtain the extraction code for cloud drive, please fill out a data application registration form. The extraction code will be automatically sent to your email address after completion. Your privacy will be protected. If you encounter any problems, please contact us via email: 18702868351@163.com. We will reply as soon as possible. You can choose Google Forms or Questionnaire Star (a survey software).
 - The download address for the newly added CRND-Complex subset dataset is as follows:https://pan.baidu.com/s/1PC4sffB9XMgJrVPDQmvoZw
 - **Google Forms**: https://docs.google.com/forms/d/e/1FAIpQLSdWIyFADrDkegUp37dIfA6br5JXpuRdp-sEPj9bBPq8nihvCQ/viewform?usp=dialog
-- **Questionnaire**: 
+- **Questionnaire**: Coming soon.
 # MMGA（Our Attention for Train Number Recognition）
 - The project's code is currently being organized and released gradually.
 - MMGA's source code has been open-sourced, and the one-click operation of the entire project is being developed.（20260630）
