@@ -1,4 +1,5 @@
 # CRND（Chinese Railway Number Dataset）
+Our paper, “MMGA: A Multi-Scale Multi-Layer Gated Attention Mechanism for Train Number Recognition,” has been accepted for publication in IEEE Transactions on Intelligent Transportation Systems.
 ## Dataset Descriptions
 - **1**: CRND comprises over 12,000 unique railway train number images with comprehensive annotations.
 - **2**: Images were collected from Chinese railway stations and operational rail lines.
