@@ -30,3 +30,6 @@ The dataset can be downloaded from:
 # Model effect display
 https://github.com/user-attachments/assets/90e802b3-bac6-47ee-b262-40ecc1a6e76e
 
+# Citation
+If our work is useful or relevant to your research, please kindly recognize our contributions by citing our paper:
+coming soon
