@@ -31,5 +31,13 @@ The dataset can be downloaded from:
 https://github.com/user-attachments/assets/90e802b3-bac6-47ee-b262-40ecc1a6e76e
 
 # Citation
-If our work is useful or relevant to your research, please kindly recognize our contributions by citing our paper:
-coming soon
+If our work is useful or relevant to your research, please kindly recognize our contributions by citing our paper:@ARTICLE{11707700,
+  author={Guo, Zizheng and Zhao, Qilin and Li, Guofa and Jiang, Xinpeng and Zhang, Jun and He, Yuqiang},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={MMGA: A Multi-Scale Multi-Layer Gated Attention Mechanism for Train Number Recognition}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-17},
+  keywords={Modeling;Training;Rail transportation;Licenses;Measurement units;Attention mechanisms;Convolution;Noise;Plating;Nuclear facility regulation;Intelligent rail transportation;train number recognition;gating mechanism;attention mechanism},
+  doi={10.1109/TITS.2026.3730441}}
